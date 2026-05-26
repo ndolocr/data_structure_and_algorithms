@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # Installed Aps
+    'linked_list',
     'rest_framework'
 ]
 
