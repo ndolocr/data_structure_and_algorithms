@@ -1,1 +1,1 @@
-Initiate Django Project for Data Structures and Algorithm
+Intervie Questions on Data Structures and Algorithms
